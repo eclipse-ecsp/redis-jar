@@ -6,7 +6,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.eclipse.ecsp.platform</groupId>
     <artifactId>redis-jar</artifactId>
-    <version>2.6.0.5</version>
+    <version>1.0</version>
     <name>redis-jar</name>
     <description>Redis in a jar</description>
 
